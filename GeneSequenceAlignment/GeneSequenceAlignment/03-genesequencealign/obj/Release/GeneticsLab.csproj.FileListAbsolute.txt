@@ -1,0 +1,12 @@
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.csprojResolveAssemblyReference.cache
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.MainForm.resources
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.Properties.Resources.resources
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.csproj.GenerateResource.Cache
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.exe.manifest
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.application
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.exe
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.pdb
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.exe.manifest
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.application
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.exe
+C:\Users\wjj2329\Desktop\GeneSequenceAlignment\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.pdb
