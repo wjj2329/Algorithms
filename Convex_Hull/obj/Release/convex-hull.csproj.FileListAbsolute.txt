@@ -1,0 +1,8 @@
+C:\Users\wjj2329\Desktop\hi\convex-hull\bin\Release\01-convex-hull.exe
+C:\Users\wjj2329\Desktop\hi\convex-hull\bin\Release\01-convex-hull.pdb
+C:\Users\wjj2329\Desktop\hi\convex-hull\obj\Release\_2_convex_hull.FormMain.resources
+C:\Users\wjj2329\Desktop\hi\convex-hull\obj\Release\_1_convex_hull.Properties.Resources.resources
+C:\Users\wjj2329\Desktop\hi\convex-hull\obj\Release\convex-hull.csproj.GenerateResource.Cache
+C:\Users\wjj2329\Desktop\hi\convex-hull\obj\Release\01-convex-hull.exe
+C:\Users\wjj2329\Desktop\hi\convex-hull\obj\Release\01-convex-hull.pdb
+C:\Users\wjj2329\Desktop\hi\convex-hull\obj\Release\convex-hull.csprojResolveAssemblyReference.cache
